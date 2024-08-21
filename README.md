@@ -41,5 +41,6 @@ Teste:
   - F1: 44,77%
   - Iou: 98,65%
 
+![output da rede neural](https://github.com/Jhones257/CNNPULMAO/blob/main/graficos_rede.png)
 
 
