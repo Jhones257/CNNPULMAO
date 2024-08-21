@@ -28,11 +28,13 @@ Suas principais funcionalidades incluem:
 # Exemplo de outputs e resultados obtidos:
 
 O modelo obteve os seguintes resultados em treino e teste:
+
 Treino:
   - Acurácia: 99,02%
   - Dice: 97,46%
   - F1: 42,80%
   - IoU: 99,22%
+
 Teste:
   - Acurácia: 97,83%
   - Dice: 94,98%
