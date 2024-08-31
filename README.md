@@ -1,6 +1,6 @@
 # 🔎Rede Neural Convolucional para segmentação do pulmão
 
-Alunos: [Jhones Soares](https://github.com/Jhones257)
+Autor: [Jhones Soares](https://github.com/Jhones257)
 
 # 👩‍💻Rede Neural Convolucional
  Uma Rede Neural Convolucional (CNN, do inglês Convolutional Neural Network) é um tipo de rede neural artificial especialmente eficaz para tarefas de processamento de dados que possuindo uma estrutura em grade, como imagens. A arquitetura das CNNs é inspirada na organização do córtex visual animal e é composta por camadas convolucionais, que aplicam filtros para extrair características importantes dos dados, seguidas por camadas de pooling, que reduzem a dimensionalidade dos dados. Podemos aplicar essas redes em aplicações de visão computacional, como classificação de imagens, detecção de objetos e segmentação semântica.
